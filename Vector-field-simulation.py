@@ -36,8 +36,8 @@ def rk4_step(x, y, dt):
 # ==========================================
 # 3. Setup Simulation Parameters & Canvas
 # ==========================================
-X_MIN, X_MAX = -3.5, 3.5
-Y_MIN, Y_MAX = -3.5, 3.5
+X_MIN, X_MAX = -10, 10
+Y_MIN, Y_MAX = -10, 10
 DT = 0.05
 TRAIL_LENGTH = 120
 
